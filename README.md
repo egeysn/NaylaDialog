@@ -1,5 +1,6 @@
 # nayla-dialog
 
+A simple library for popups.
 
 Download
 --------
